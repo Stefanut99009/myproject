@@ -1,1 +1,2 @@
-Today I only configured the project in Django after 4 days I will do my first project in Django
+https://www.youtube.com/watch?v=xSUm6iMtREA&t=45s<br>
+I followed this tutorial
